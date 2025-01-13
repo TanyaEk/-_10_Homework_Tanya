@@ -1,0 +1,10 @@
+C:\Users\User1\source\repos\-_10_Homework_Tanya\Задача_10_Homework_Tanya\bin\Debug\Задача_10_Homework_Tanya.exe.config
+C:\Users\User1\source\repos\-_10_Homework_Tanya\Задача_10_Homework_Tanya\bin\Debug\Задача_10_Homework_Tanya.exe
+C:\Users\User1\source\repos\-_10_Homework_Tanya\Задача_10_Homework_Tanya\bin\Debug\Задача_10_Homework_Tanya.pdb
+C:\Users\User1\source\repos\-_10_Homework_Tanya\Задача_10_Homework_Tanya\obj\Debug\Задача_10_Homework_Tanya.csproj.AssemblyReference.cache
+C:\Users\User1\source\repos\-_10_Homework_Tanya\Задача_10_Homework_Tanya\obj\Debug\Задача_10_Homework_Tanya.Form1.resources
+C:\Users\User1\source\repos\-_10_Homework_Tanya\Задача_10_Homework_Tanya\obj\Debug\Задача_10_Homework_Tanya.Properties.Resources.resources
+C:\Users\User1\source\repos\-_10_Homework_Tanya\Задача_10_Homework_Tanya\obj\Debug\Задача_10_Homework_Tanya.csproj.GenerateResource.cache
+C:\Users\User1\source\repos\-_10_Homework_Tanya\Задача_10_Homework_Tanya\obj\Debug\Задача_10_Homework_Tanya.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\-_10_Homework_Tanya\Задача_10_Homework_Tanya\obj\Debug\Задача_10_Homework_Tanya.exe
+C:\Users\User1\source\repos\-_10_Homework_Tanya\Задача_10_Homework_Tanya\obj\Debug\Задача_10_Homework_Tanya.pdb
